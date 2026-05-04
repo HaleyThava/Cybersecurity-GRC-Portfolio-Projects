@@ -16,6 +16,8 @@ Portfolio projects in this repository use a consistent fictional case organisati
 
 ### Cyber Pharmacy — Cybersecurity Maturity and Risk Assessment
 
+Read my full Cybersecurity Maturity and Risk Assessment Report here: [Cybersecurity Maturity and Risk Assessment Report](https://github.com/HaleyThava/Cybersecurity-GRC-Portfolio-Projects/blob/main/Cybersecurity%20Maturity%20and%20Risk%20Assessment%20Portfolio%20Project.pdf)
+
 A combined NIST CSF 2.0 maturity assessment and NIST SP 800-30 risk assessment for Cyber Pharmacy, conducted under Australian healthcare regulatory context including the Privacy Act 1988, Notifiable Data Breaches scheme, My Health Records Act 2012, and Medicines and Poisons Act 2014 (WA).
 
 **Frameworks and standards applied:**
