@@ -51,4 +51,4 @@ All projects in this repository are fictional academic and portfolio exercises. 
 
 ## Contact
 
-Connect with me on [LinkedIn](your-linkedin-url-here) for healthcare GRC discussion or opportunities.
+Connect with me on [LinkedIn](https://au.linkedin.com/in/haley-thava-03377a325) for healthcare GRC discussion or opportunities.
