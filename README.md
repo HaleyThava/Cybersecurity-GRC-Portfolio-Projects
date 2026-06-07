@@ -70,7 +70,7 @@ A companion artefact to the maturity and risk assessment above, viewing the same
 - NIST CSF 2.0 cross-references maintaining traceability with the maturity and risk assessment
 - Findings and a prioritised set of treatment steps
 
-### What this project demonstrates
+## What this portfolio demonstrates
 
 - Application of ISO/IEC 27001:2022 — selection and justification of Annex A controls against identified risks
 - Production of a Statement of Applicability (SoA) recording applicability, implementation status, and justification for each control
@@ -79,7 +79,7 @@ A companion artefact to the maturity and risk assessment above, viewing the same
 - Understanding of the ISO/IEC 27001 structure — mandatory management-system clauses (4–10) versus selectable Annex A controls, linked by the SoA
 - Awareness of healthcare-specific control considerations, including Schedule 8 controlled-drug and CCTV integrity, My Health Record session security, and Notifiable Data Breaches obligations
 
-### Disclaimer
+## Disclaimer
 
 This project is a fictional academic and portfolio exercise. Cyber Pharmacy and the software products referenced (e.g. A-Dispense) are fictional. Where real entities are named (PBS, MHR, AIR, OAIC, AHPRA), they are referenced for operational realism only. No real organisation, vendor, or individual has been assessed.
 
