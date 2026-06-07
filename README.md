@@ -4,7 +4,7 @@ Cybersecurity governance, risk, and compliance work focused on the Australian he
 
 ## About me
 
-I'm a registered pharmacist transitioning into healthcare cybersecurity GRC. My clinical background gives me direct, observational experience of regulated health data handling, high stakes decision making under privacy obligations, and the operational realities of community healthcare environments.
+I'm a registered pharmacist transitioning into cybersecurity GRC in regulated industries/healthcare. My clinical background gives me direct, observational experience of regulated health data handling, high stakes decision making under privacy obligations, and the operational realities of community healthcare environments.
 
 ## Case organisation: Cyber Pharmacy
 
@@ -56,10 +56,39 @@ All projects in this repository are fictional academic and portfolio exercises. 
 
 Read my full ISO/IEC 27001:2022 Control Mapping and SoA here: [ISO/IEC 27001:2022 Control Mapping and Statement of Applicability](https://github.com/HaleyThava/Cybersecurity-GRC-Portfolio-Projects/blob/main/Cyber_Pharmacy_ISO_IEC_27001_Control_Mapping_%26_SoA.pdf)
 
+A companion artefact to the maturity and risk assessment above, viewing the same eight Cyber Pharmacy risks through the ISO/IEC 27001:2022 lens. It maps each risk to a principal Annex A control and records applicability, implementation status, and justification in a Statement of Applicability (SoA) format, with each control cross-referenced to its NIST CSF 2.0 subcategories.
+
+**Frameworks and standards applied:**
+- ISO/IEC 27001:2022 — Annex A control selection and Statement of Applicability (SoA)
+- NIST CSF 2.0 — subcategory cross-referencing for traceability with the companion portfolio project
+- Australian Privacy Principles, NDB scheme, MHR Act 2012, Medicines and Poisons Act 2014 (WA) — regulatory context
+
+**The artefact includes:**
+- A primer on the ISO/IEC 27001:2022 structure — management-system clauses (4–10) versus Annex A controls, and the SoA as the link between them
+- A risk-led scope statement following Clause 4.3 and Clause 6.1.3
+- A Statement of Applicability mapping eight prioritised risks (R1–R8) to principal Annex A controls, each with applicability, implementation status (Met / Partial / Gap), and justification
+- NIST CSF 2.0 cross-references maintaining traceability with the maturity and risk assessment
+- Findings and a prioritised set of treatment steps
+
+### What this project demonstrates
+
+- Application of ISO/IEC 27001:2022 — selection and justification of Annex A controls against identified risks
+- Production of a Statement of Applicability (SoA) recording applicability, implementation status, and justification for each control
+- Cross-framework mapping of ISO/IEC 27001 Annex A controls to NIST CSF 2.0 subcategories for traceability
+- Risk-led control scoping appropriate to the scale and resources of a small single-site organisation (Cyber Pharmacy)
+- Understanding of the ISO/IEC 27001 structure — mandatory management-system clauses (4–10) versus selectable Annex A controls, linked by the SoA
+- Awareness of healthcare-specific control considerations, including Schedule 8 controlled-drug and CCTV integrity, My Health Record session security, and Notifiable Data Breaches obligations
+
+### Disclaimer
+
+This project is a fictional academic and portfolio exercise. Cyber Pharmacy and the software products referenced (e.g. A-Dispense) are fictional. Where real entities are named (PBS, MHR, AIR, OAIC, AHPRA), they are referenced for operational realism only. No real organisation, vendor, or individual has been assessed.
+
+ISO/IEC 27001:2022 is published by ISO and IEC. The clauses and Annex A control numbers and titles used here are drawn from the standard and paraphrased. None of the standard's text has been reproduced. This project is not affiliated with or endorsed by ISO or IEC. The published standard should be consulted for the official wording.
+
 
 ---
 
 
 ## Contact
 
-Connect with me on [LinkedIn](https://au.linkedin.com/in/haley-thava-03377a325) for healthcare GRC discussion or opportunities.
+Connect with me on [LinkedIn](https://au.linkedin.com/in/haley-thava-03377a325) for GRC discussion or opportunities.
