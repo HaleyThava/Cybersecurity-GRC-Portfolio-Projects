@@ -16,7 +16,7 @@ Portfolio projects in this repository use a consistent fictional case organisati
 
 ### Cyber Pharmacy — Cybersecurity Maturity and Risk Assessment
 
-Read my full Cybersecurity Maturity and Risk Assessment Report here: [Cybersecurity Maturity and Risk Assessment Report](https://github.com/HaleyThava/Cybersecurity-GRC-Portfolio-Projects/blob/main/Cybersecurity%20Maturity%20and%20Risk%20Assessment%20Portfolio%20Project.pdf)
+Read my full Cybersecurity Maturity and Risk Assessment Report here: [Cybersecurity Maturity and Risk Assessment Report](https://github.com/HaleyThava/Cybersecurity-GRC-Portfolio-Projects/blob/main/Cybersecurity_Maturity_and_Risk_Assessment_Portfolio_Project.pdf)
 
 A combined NIST CSF 2.0 maturity assessment and NIST SP 800-30 risk assessment for Cyber Pharmacy, conducted under Australian healthcare regulatory context including the Privacy Act 1988, Notifiable Data Breaches scheme, My Health Records Act 2012, and Medicines and Poisons Act 2014 (WA).
 
@@ -54,7 +54,7 @@ All projects in this repository are fictional academic and portfolio exercises. 
 
 ### Cyber Pharmacy — ISO/IEC 27001:2022 Control Mapping and Statement of Applicability (Extract)
 
-Read my full ISO/IEC 27001:2022 Control Mapping and SoA here: [ISO/IEC 27001:2022 Control Mapping and Statement of Applicability](https://github.com/HaleyThava/Cybersecurity-GRC-Portfolio-Projects/blob/main/Cybersecurity_ISO_IEC_27001_Control_Mapping_%26_SoA.pdf)
+Read my full ISO/IEC 27001:2022 Control Mapping and SoA here: [ISO/IEC 27001:2022 Control Mapping and Statement of Applicability](https://github.com/HaleyThava/Cybersecurity-GRC-Portfolio-Projects/blob/main/Cybersecurity_ISO_IEC_27001_Control_Mapping_and_SoA.pdf)
 
 A companion artefact to the maturity and risk assessment above, viewing the same eight Cyber Pharmacy risks through the ISO/IEC 27001:2022 lens. It maps each risk to a principal Annex A control and records applicability, implementation status, and justification in a Statement of Applicability (SoA) format, with each control cross-referenced to its NIST CSF 2.0 subcategories.
 
