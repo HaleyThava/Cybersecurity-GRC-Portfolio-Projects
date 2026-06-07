@@ -51,6 +51,15 @@ All projects in this repository are fictional academic and portfolio exercises. 
 
 ---
 
+
+### Cyber Pharmacy — ISO/IEC 27001:2022 Control Mapping and Statement of Applicability (Extract)
+
+Read my full ISO/IEC 27001:2022 Control Mapping and SoA here: [ISO/IEC 27001:2022 Control Mapping and Statement of Applicability](https://github.com/HaleyThava/Cybersecurity-GRC-Portfolio-Projects/blob/main/Cyber_Pharmacy_ISO_IEC_27001_Control_Mapping_%26_SoA.pdf)
+
+
+---
+
+
 ## Contact
 
 Connect with me on [LinkedIn](https://au.linkedin.com/in/haley-thava-03377a325) for healthcare GRC discussion or opportunities.
